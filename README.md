@@ -1,5 +1,5 @@
 # Stack Overflow Developer Survey – Technology Trends Analysis  
-**Author:** Anita C. Carrasco  
+**Author:** Ana C. Carrasco  
 **Tools:** Google Sheets, Looker Studio, Data Visualization, Data Wrangling
 
 ## 📌 Overview
@@ -98,3 +98,8 @@ The trends suggest three major implications:
   Tools that simplify building, deploying, and scaling applications are gaining market traction, shaping the future of full-stack development.
 
 Overall, the ecosystem is evolving toward a balance of scalability, agility, and global performance, indicating where engineering investments and professional development should be focused over the next 2–4 years.
+
+---
+
+### ⬅️ Back to Portfolio  
+🔗 https://github.com/your-username/portfolio
